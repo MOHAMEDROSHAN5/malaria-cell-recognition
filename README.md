@@ -1,6 +1,5 @@
-Exp.No : 04 
+# Exp.No : 04 
 
-Date : 
 <br>
 
 # Deep Neural Network for Malaria Infected Cell Recognition
