@@ -1,6 +1,6 @@
 Exp.No : 04 
 
-Date : 9.05.2024 
+Date : 
 <br>
 
 # Deep Neural Network for Malaria Infected Cell Recognition
@@ -255,7 +255,7 @@ pred=bool(model.predict(img.reshape(1,130,130,3))<0.5 )
 plt.title("Model prediction: "+("Parasitized" if pred
     else "Un Infected")+"\nActual Value: "+str(dir_))
 plt.axis("off")
-print("Sri Varshan P 212222240104")
+print("MOHAMED ROSHAN S/212222040101")
 plt.imshow(img)
 plt.show()
 ```
